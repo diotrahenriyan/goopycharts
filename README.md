@@ -1,5 +1,6 @@
 # Creating Graphs with Python and GooPyCharts
 Source: [datascience+](https://datascienceplus.com/creating-graphs-with-python-and-goopycharts/)
+Author: [Mike Driscoll](https://datascienceplus.com/author/mike-driscoll/)
 
 To install GooPyCharts, all you need to do is use pip like this:
 
